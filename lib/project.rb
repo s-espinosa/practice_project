@@ -1,7 +1,7 @@
 class Project
 
-  def initialize(name)
-    @name = name
+  def initialize(project_name)
+    @project_name = project_name
   end
-  
+
 end
